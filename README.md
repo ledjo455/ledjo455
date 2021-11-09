@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ledjo455
-- 👀 I’m interested in Computer Science and Software Engineering
+- 👋 Hi, I’m Ledjo
+- 👀 I’m interested Software Engineering and Machine Learning
 - 🌱 I’m currently learning Python, React & Redux
-- 📫 How to reach me: email me ledjopilua@unyt.edu.al
-
-
+- 📫 How to reach me: email me ledjo45@gmail.com
