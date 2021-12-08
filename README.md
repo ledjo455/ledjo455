@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ledjo
 - 👀 I’m interested Software Engineering and Machine Learning
-- 🌱 I’m currently learning Python, React & Redux
+- 🌱 I’m currently learning Python, React & Redux, Node.js, TypeScript and GraphQL
 - 📫 How to reach me: email me ledjo45@gmail.com
